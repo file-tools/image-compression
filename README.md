@@ -14,7 +14,7 @@ Helpers provide guardrails:
   - Wrappers like this can help by augmenting functionality and with reminders around configuration 
 
 ## How 📋
-[![Watch the video](https://drive.google.com/thumbnail?id=19VL9eqEVZMhMu_VS20zEKymaR9upDX1Z&sz=s225)](https://www.youtube.com/watch?v=mF08aEANd1A)
+[![Watch the video](https://drive.google.com/thumbnail?id=1mCBzjdxTR1NW615jg8tObDGH9loYDbXu&sz=s225)](https://www.youtube.com/watch?v=mF08aEANd1A)
 
 1. First, install dependencies on your Mac. See dependencies below. 
 2. Rename config-sample.ini -> config.ini
